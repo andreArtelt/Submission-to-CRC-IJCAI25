@@ -1,2 +1,7 @@
-# Submission-to-CRC-IJCAI25
-My submission to the Counterfactual Routing Competition (CRC) @ IJCAI-25
+# Submission to CRC @ IJCAI-25
+This repository contains my submission to the [Counterfactual Routing Competition (CRC) @ IJCAI-25](https://github.com/HcPlu/CRC25).
+Please refer to the official [competition website](https://github.com/HcPlu/CRC25) for details on the competition.
+
+## Code submission
+Following the official submission template, my submission can be found in the file [my_submission.py](my_submission.py).
+The [requirements](requirements.txt) are the same as in the provided starter code.
