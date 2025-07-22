@@ -117,7 +117,7 @@ def run_baseline_method(df, path_foil, df_path_foil, gdf_coords_loaded, user_mod
     best_weighted_error = 1000000
     best_graph_error = 1000
     best_route_error = 1000
-    gen_num = 10
+    gen_num = 5
     lagrangian_lambda = 2000
     route_error_delta = user_model["route_error_threshold"]
 
